@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Manish Rastogi 👋
 
-<!--
-**ManishRastogi/ManishRastogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build AI workflows and intelligent agents that automate research, reasoning, and decision-making.
 
-Here are some ideas to get you started:
+### 🔹 What I Focus On:
+- AI Agents (Reasoning + Tools + Memory)
+- AI Workflow Automation & Orchestration
+- Structured Output Design & RAG Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Current Projects
+- Insight Analyzer Agent Library
+- Multi-Agent Automation Mini-Projects
+- AI Agent Engineer Portfolio (7-Month Roadmap)
+
+### 🎯 Goal
+Become an **AI Agent Engineer** — helping automate high-value thinking and operations with AI.
